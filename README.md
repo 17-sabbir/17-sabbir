@@ -36,18 +36,26 @@ Here are some ideas to get you started:
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
   <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
   <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+
+  <!-- Web Development -->
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
+
+  <!-- Mobile / App Development -->
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=serverpod" title="Serverpod" />
+  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
+  <img src="https://raw.githubusercontent.com/17-sabbir/assets/main/serverpod.png" title="Serverpod" width="40" />
+
+  <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
   <img src="https://skillicons.dev/icons?i=github" title="GitHub" />
   <img src="https://skillicons.dev/icons?i=mysql" title="MySQL" />

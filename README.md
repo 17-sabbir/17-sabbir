@@ -14,23 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi 👋 I'm Sabbir
-
-🎓 I am a **BSSE (Bachelor of Science in Software Engineering)** student
-🚀 Interested in building **secure and scalable applications**
-
----
-
-
-
-## 👨‍💻 About Me
-
-* 🔭 I’m currently working on **software development projects**
-* 🔐 Interested in **Cryptography and Secure Systems**
-* 🤖 Exploring **AI integration in modern applications**
-* 🎯 Goal: To become a **skilled Software Engineer**
-
----
+<h1 align="center">Hi 👋 I'm Sabbir</h1>
+<p align="center">
+🎓 BSSE (Bachelor of Science in Software Engineering)<br>
+🚀 Interested in building secure and scalable applications
+</p>
 
 
 ## 🛠️ Tech Stack
@@ -53,7 +41,7 @@ Here are some ideas to get you started:
   <!-- Mobile / App Development -->
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-  <img src="https://docs.serverpod.dev/img/logo-horizontal-dark.svg" title="Serverpod" width="40" />
+  <img src="https://docs.serverpod.dev/img/logo-horizontal-dark.svg" title="Serverpod" width="80" />
 
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git" title="Git" />
@@ -64,21 +52,10 @@ Here are some ideas to get you started:
   <img src="https://skillicons.dev/icons?i=linux" title="Linux" />
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=17-sabbir&show_icons=true&theme=tokyonight" alt="Sabbir's GitHub Stats" />
-</p>
-
----
 
 ## 📫 Connect With Me
 
 * GitHub: [17-sabbir](https://github.com/17-sabbir)  
 * Email: [sabbir05m.nstu@gmail.com](mailto:sabbir05m.nstu@gmail.com)  
 
----
 
-⭐ *Thanks for visiting my profile!*

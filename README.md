@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ---
 
+
+
 ## 👨‍💻 About Me
 
 * 🔭 I’m currently working on **software development projects**
@@ -30,9 +32,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠️ Skills
-
-### Programming Languages
+🛠️ Programming Languages
 
 * C
 * C++
@@ -41,20 +41,20 @@ Here are some ideas to get you started:
 * Dart
 * PHP
 
-### 🌐 Web Development
+🌐 Web Development
 
 * HTML
 * CSS
 * Bootstrap
 * Laravel
 
-### 📱 Mobile App Development
+📱 Mobile App Development
 
 * Flutter
 * Dart
 * Serverpod
 
-### 🧰 Tools & Technologies
+🧰 Tools & Technologies
 
 * Git & GitHub
 * MySQL / PostgreSQL
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 ![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=17-sabbir\&show_icons=true\&theme=tokyonight)
 

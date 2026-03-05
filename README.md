@@ -53,7 +53,7 @@ Here are some ideas to get you started:
   <!-- Mobile / App Development -->
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
   <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-  <img src="https://raw.githubusercontent.com/17-sabbir/assets/main/serverpod.png" title="Serverpod" width="40" />
+  <img src="https://docs.serverpod.dev/img/logo-horizontal-dark.svg" title="Serverpod" width="40" />
 
   <!-- Tools & Platforms -->
   <img src="https://skillicons.dev/icons?i=git" title="Git" />

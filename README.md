@@ -32,47 +32,30 @@ Here are some ideas to get you started:
 
 ---
 
-🛠️ Programming Languages
 
-* C
-* C++
-* JavaScript
-* Python
-* Dart
-* PHP
+## 🛠️ Tech Stack
 
-🌐 Web Development
-
-* HTML
-* CSS
-* Bootstrap
-* Laravel
-
-📱 Mobile App Development
-
-* Flutter
-* Dart
-* Serverpod
-
-🧰 Tools & Technologies
-
-* Git & GitHub
-* MySQL / PostgreSQL
-* VS Code
-* Linux
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,js,python,dart,php" alt="Programming Languages"/>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,laravel" alt="Web Development"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,serverpod" alt="Mobile App Development"/>
+<img src="https://skillicons.dev/icons?i=git,github,mysql,postgres,vscode,linux" alt="Tools & Technologies"/>
+</p>
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-![Sabbir's GitHub stats](https://github-readme-stats.vercel.app/api?username=17-sabbir\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=17-sabbir&show_icons=true&theme=tokyonight" alt="Sabbir's GitHub Stats" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-* GitHub: https://github.com/17-sabbir
-* Email: [sabbir05m.nstu@gmail.com](mailto:sabbir05m.nstu@gmail.com)
+* GitHub: [17-sabbir](https://github.com/17-sabbir)  
+* Email: [sabbir05m.nstu@gmail.com](mailto:sabbir05m.nstu@gmail.com)  
 
 ---
 

@@ -27,20 +27,21 @@ Here are some ideas to get you started:
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=c" title="C" />
   <img src="https://skillicons.dev/icons?i=cpp" title="C++" />
-  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=java" title="Java" />
   <img src="https://skillicons.dev/icons?i=python" title="Python" />
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
-  <img src="https://skillicons.dev/icons?i=php" title="PHP" />
+
 
   <!-- Web Development -->
   <img src="https://skillicons.dev/icons?i=html" title="HTML" />
   <img src="https://skillicons.dev/icons?i=css" title="CSS" />
   <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap" />
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript" />
+    <img src="https://skillicons.dev/icons?i=php" title="PHP" />
   <img src="https://skillicons.dev/icons?i=laravel" title="Laravel" />
 
   <!-- Mobile / App Development -->
+   <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
   <img src="https://skillicons.dev/icons?i=flutter" title="Flutter" />
-  <img src="https://skillicons.dev/icons?i=dart" title="Dart" />
   <img src="https://docs.serverpod.dev/img/logo-horizontal-dark.svg" title="Serverpod" width="80" />
 
   <!-- Tools & Platforms -->
